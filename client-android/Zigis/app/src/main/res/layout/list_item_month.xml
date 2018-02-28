@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/list_item_month_layout"
+android:orientation="horizontal"
+android:padding="12dp"
+android:layout_height="wrap_content"
+android:layout_width="match_parent">
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list_item_monthdate_textview"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:minWidth="100dp"
+    android:layout_weight="8"
+    android:textColor="@color/black"
+    android:textSize="26sp" />
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/list_item_monthcount_textview"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:layout_weight="7"
+    android:textColor="@color/black"
+    android:textStyle="bold"
+    android:textSize="26sp" />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Zigis</string>
+
+    <string name="action_refresh" translatable="false">Aktualisieren</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="yellowlimit">Schwellenwert Gelb</string>
+    <string name="redlimit">Schwellenwert Rot</string>
+    <string name="title_days">Tage</string>
+    <string name="title_months">Monate</string>
+</resources>

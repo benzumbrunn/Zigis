@@ -104,6 +104,4 @@ deploy
 *.html
 data.txt
 server-spring/cigarettecounter/.mvn/
-server-spring/cigarettecounter/mvnw/
-server-spring/cigarettecounter/mvnw.cmd
 
